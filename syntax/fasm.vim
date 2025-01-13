@@ -193,7 +193,7 @@ hi def link fasmNumber          Constant
 hi def link fasmString          String
 hi def link fasmComment         Comment
 hi def link fasmOperator        Special
-hi def link fasmLabel           Underlined
+hi def link fasmLabel           Keyword
 hi def link fasmSymbol          Structure
 hi def link fasmSpecial         Special
 hi def link fasmMacros          Identifier
